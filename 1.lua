@@ -6,6 +6,6 @@ function touch(x,y)
  return 1
 end
 
-touch(507/2,441/2)
+touch(507/2.0,441/2.0)
 
 
