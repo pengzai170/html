@@ -1,1 +1,11 @@
-print('123455 test')
+print('start...')
+
+function touch(x,y)
+ wax.simulation.touch(x,y)
+ print('touch....')
+ return 1
+end
+
+touch(507/2,441/2)
+
+
